@@ -1,21 +1,14 @@
-# Contributing to [Members-Directory]
+# Contributing to Members-Directory
 We would love for you to contribute to Members-Directory to help curate a list of all members within the chapter. As a contributor, here are the guidelines we would like you to follow:
 
 ## Code of Conduct
 Please read and follow our [code of conduct](#)
 
 ## Question or Problem?
-Do not open issues for general support questions as we want to keep GitHub issues for bug reports and feature requests. You've got much better chances of getting your question answered on [Discord Channel]() or google.
+Do not open issues for general support questions as we want to keep GitHub issues for bug reports and feature requests. You've got much better chances of getting your question answered on [Discord Channel](https://discord.gg/vMPQXGy4Fs) or google.
 
 ## Found a bug?
 If you find a bug in the source code, you can help us by submitting an issue to our GitHub Repository. Even better, you can submit a Pull Request with a fix.
-
-## Missing feature?
-You can request a new feature by submitting an issue to our GitHub Repository. If you would like to implement a new feature, please submit an issue with a proposal for your work first, to be sure that we can use it. Please consider what kind of change it is:
-
-- For a Major Feature, first open an issue and outline your proposal so that it can be discussed. This will also allow us to better coordinate our efforts, prevent duplication of work, and help you to craft the change so that it is successfully accepted into the project.
-
-- Small Features can be crafted and directly submitted as a Pull Request.
 
 ## SUBMISSION GUIDELINES
 ### Submitting an Issue:
@@ -32,56 +25,40 @@ Before you submit your Pull Request (PR) consider the following guidelines:
 
 4. Fork repo.
 
-5. Make your changes in a new git branch:
-   ```
-   git checkout -b my-branch
-   ```
-    
-6. Create your patch, including appropriate test cases.
-
-7. Run tests and ensure that all tests pass.
-
-8. Commit your changes using a descriptive commit message 
+5. On your command line, clone repository
     ```
-    git commit -a
+    git clone <repo-url>
     ```
-    Note: the optional commit -a command line option will automatically "add" and "rm" edited files.
-
-9. Push your branch to GitHub:
+6. Add remote upstream
     ```
-    git push origin my-fix-branch
+    git remote add upstream <repo-url>
     ```
+    You can check this by typing `git remote`, you should have `origin` and `upstream`
 
-10. In GitHub, send a pull request to the appropriate branch.
+7. Run the following commands;
+    `git checkout main`
+    `git fetch upstream`
+    `git merge upstream/main`
+    `git push`
 
-11. If we suggest changes, make the required updates.
+8. Create a new branch to work on
+    `git checkout -b <BRANCHNAME>`
 
-13. Rebase your branch and force push to your GitHub repository (this will update your Pull Request):
-    ```
-    git rebase master -i
-    git push -f
-    ```
+9. Make the changes you want from this branch.
 
-That's it! Thank you for your contribution!
+10. Add and commit your changes
+    `git add <filename>` or `git add .` to add multiple files.
+    `git commit -m "explicit commit message"`
 
-After your pull request is merged, you can safely delete your branch and pull the changes from the main (upstream) repository:
+11. Run the first three commands in #7 above.
 
-1. Delete the remote branch on GitHub either through the GitHub web UI or your local shell as follows:
-    ```
-    git push origin --delete my-fix-branch
-    ```
+12. `git checkout <YOUR-BRANCHNAME>`
 
-2. Check out the master branch:
-   ```
-   git checkout master -f
-   ```
+13. `git rebase main`
 
-3. Delete the local branch:
-   ```
-   git branch -D my-fix-branch
-   ```
+14. Push your code
+    `git push --set-upstream origin <YOUR-BRANCHNAME>`
 
-4. Update your master with the latest upstream version:
-   ```
-   git pull --ff upstream master
-   ```
+That's it! Go ahead and click on the `Create Pull Request` button on the web.
+
+Thank you for your contribution!
