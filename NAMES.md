@@ -10,3 +10,8 @@
 [Maxjayz](https://github.com/Maxjayz)⚡⚡
 
 [Yadeeley](https://github.com/Yadeeley)🪐
+
+[Ofurum Chiagoziem](https://github.com/ofurum)
+
+[Olayiwola Olanrewaju](https://github.com/larrycoal)
+
