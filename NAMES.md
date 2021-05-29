@@ -2,3 +2,5 @@
 
 [James Morgan](https://github.com/MorganJay) 🐱‍🏍
 [Shirley Abaegbu](https://github.com/ShirleyRex) 🚀
+[Admoll Ad.](https://github.com/Howdy-admoll) 🐱‍👤
+
