@@ -8,14 +8,3 @@
 [Admoll Ad.](https://github.com/Howdy-admoll) 🐱‍👤
 
 [Maxjayz](https://github.com/Maxjayz)⚡⚡
-
-
-
-
-
-
-
-
-
-
-
