@@ -1,17 +1,21 @@
 # ADD YOUR NAMES IN THIS FILE AS DESCRIBED IN THE README.md FILE
-[Joseph Chinedu](https://github.com/Josephchinedu)
 
-[James Morgan](https://github.com/MorganJay) 🐱‍🏍
+- [Abisoye Alli-Balogun](https://github.com/AbisoyeAlli?tab=repositories)
 
-[Shirley Abaegbu](https://github.com/ShirleyRex) 🚀
+- [Joseph Chinedu](https://github.com/Josephchinedu)
 
-[Admoll Ad.](https://github.com/Howdy-admoll) 🐱‍👤
+- [James Morgan](https://github.com/MorganJay) 🐱‍🏍
 
-[Maxjayz](https://github.com/Maxjayz)⚡⚡
+- [Shirley Abaegbu](https://github.com/ShirleyRex) 🚀
 
-[Yadeeley](https://github.com/Yadeeley)🪐
+- [Admoll Ad.](https://github.com/Howdy-admoll) 🐱‍👤
 
-[Ofurum Chiagoziem](https://github.com/ofurum)
+- [Maxjayz](https://github.com/Maxjayz)⚡⚡
 
-[Olayiwola Olanrewaju](https://github.com/larrycoal)
+- [Yadeeley](https://github.com/Yadeeley)🪐
+
+- [Ofurum Chiagoziem](https://github.com/ofurum)
+
+- [Olayiwola Olanrewaju](https://github.com/larrycoal)
+
 
