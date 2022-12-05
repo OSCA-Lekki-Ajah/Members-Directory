@@ -18,6 +18,6 @@
 
 - [Olayiwola Olanrewaju](https://github.com/larrycoal)
 
-- [Chinyere Nwalie] (https://github.com/Chinyere-nwalie)♾💫
+- [Chinyere Nwalie](https://github.com/Chinyere-nwalie)♾💫
 
 
